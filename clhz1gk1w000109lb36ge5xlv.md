@@ -50,7 +50,7 @@ So I watched a few more YouTube videos and figured how it's done. I discovered t
 
 **A sample org file with time tracking and clock report:**
 
-![/img/org-time-tracker.png](https://imbmax.com/img/org-time-tracker.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684775279372/c972c5f5-0240-43c2-8f7e-32692709a518.png align="center")
 
 This actually fits really well in my workflow, I'll list down some of the pros below.
 
