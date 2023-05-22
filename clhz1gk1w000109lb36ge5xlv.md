@@ -3,6 +3,7 @@ title: "Emacs as a Time Tracker"
 datePublished: Mon May 22 2023 16:05:13 GMT+0000 (Coordinated Universal Time)
 cuid: clhz1gk1w000109lb36ge5xlv
 slug: emacs-as-a-time-tracker
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684775493254/ebdd0e92-2f0b-4ecc-a6c0-8104d431b827.png
 tags: emacs, productivity
 
 ---
