@@ -1,10 +1,10 @@
 ---
-title: "Python with fish shell"
+title: "Python venv with fish shell"
 seoTitle: "notes, python, fish"
 seoDescription: "How to work with python virtualenv in fish shell"
 datePublished: Wed Mar 08 2023 16:01:24 GMT+0000 (Coordinated Universal Time)
 cuid: clezvaqwx000009la231pgipd
-slug: python-with-fish-shell
+slug: python-venv-with-fish-shell
 tags: notes, fishshell
 
 ---
