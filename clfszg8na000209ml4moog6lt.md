@@ -3,6 +3,7 @@ title: "Code formatting in Neovim"
 datePublished: Wed Mar 29 2023 01:02:58 GMT+0000 (Coordinated Universal Time)
 cuid: clfszg8na000209ml4moog6lt
 slug: code-formatting-in-neovim
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/g5jpH62pwes/upload/d1663f5fa9c125e7d20e3285e72b5950.jpeg
 tags: vim, neovim, typescript, eslint
 
 ---
