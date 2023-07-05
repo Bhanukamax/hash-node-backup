@@ -3,6 +3,7 @@ title: "Emacs-Inspired Search in Vim"
 datePublished: Sat Jul 01 2023 04:51:16 GMT+0000 (Coordinated Universal Time)
 cuid: cljjizx1h00010amhbj3x5f42
 slug: emacs-inspired-search-in-vim
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/nSEd2CnQJ8A/upload/989a15cd8151a0aedf2a5b11be61cbeb.jpeg
 tags: emacs, vim, neovim
 
 ---
