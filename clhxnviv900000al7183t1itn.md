@@ -15,6 +15,8 @@ I used to use gnu make by writing my Makefile(s) by hand, and I have tried a lit
 
 So here's the simplest cmake file you can create.
 
+(this content should go into a file called `CMakeLists.txt`)
+
 ```cpp
 # Specify the minimum version of cmake to use
 cmake_minimum_required(VERSION 3.0)
