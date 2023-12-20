@@ -3,7 +3,7 @@ title: "Vim to Lisp to Emacs"
 datePublished: Mon May 22 2023 15:44:28 GMT+0000 (Coordinated Universal Time)
 cuid: clhz0putp000309jl52vefd59
 slug: vim-to-lisp-to-emacs
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/expMk3K5v_c/upload/b2e2dc749f06eb96dbefd6e97d130cb7.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703084463454/575d8fea-9d2a-4339-b0e3-4689298cd8b4.png
 tags: emacs, ides, vim, text-editors, lisp
 
 ---
