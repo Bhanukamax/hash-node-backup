@@ -1,5 +1,6 @@
 ---
 title: "Why I created a typing practice app"
+seoDescription: "Boost your typing speed journey! From QWERTY to Dvorak, I created my own practice app inspired by a friend's tip on muscle memory. Check it out at type.imbm"
 datePublished: Sun Jan 28 2024 06:19:54 GMT+0000 (Coordinated Universal Time)
 cuid: clrx42mp700020ajsar1q1uj4
 slug: why-i-created-a-typing-practice-app
@@ -7,6 +8,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706422117399/a300145
 tags: tools, developer, typing, reactjs, side-project, typing-test-test-typing-online-computer-typing-test, typing-test, typing-speed, typing-tools
 
 ---
+
+TL;DR: So, I got this itch to type faster, switched from QWERTY to Dvorak, and thought, why not build my own typing practice app? Inspired by a friend's advice on muscle memory, I added cool features like tweaking word counts. It's a work in progress, but hey, check it out at [type.imbmax.com](http://type.imbmax.com) – my little typing haven! 🚀
 
 I have always been a fan of touch typing and exploring different keyboards, layouts, etc.
 
