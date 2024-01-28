@@ -1,5 +1,6 @@
 ---
 title: "Why I created a typing practice app"
+seoTitle: "Crafting My Own Typing Practice App: A Personal Quest for Speed and Pr"
 seoDescription: "I created my own practice app inspired by a friend's tip on muscle memory. Check it out at type.imbmax.com for a personalized typing haven! 🚀"
 datePublished: Sun Jan 28 2024 06:19:54 GMT+0000 (Coordinated Universal Time)
 cuid: clrx42mp700020ajsar1q1uj4
