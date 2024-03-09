@@ -1,11 +1,12 @@
 ---
 title: "Building c or c++ projects is not that hard (with cmake)"
-seoTitle: "Building c or c++ projects is not that hard"
+seoTitle: "bulding c or c++ with cmake"
+seoDescription: "easy way to use cmake to building c, c++"
 datePublished: Sun May 21 2023 16:57:11 GMT+0000 (Coordinated Universal Time)
 cuid: clhxnviv900000al7183t1itn
 slug: building-c-or-c-projects-is-not-that-hard
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fQxMGkYXqFU/upload/c41df5fbb6011e9910d9e0f58692e6b3.jpeg
-tags: cpp, c, cmake
+tags: cpp, c, cmake, linking
 
 ---
 
