@@ -3,6 +3,7 @@ title: "How to use Xephyr for Window Manager Development"
 datePublished: Sun Jun 30 2024 06:37:59 GMT+0000 (Coordinated Universal Time)
 cuid: cly16j2ty000009kw5xn2es5k
 slug: how-to-use-xephyr-for-window-manager-development
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719731090053/76095def-badd-4a1e-afdc-ade4ffe8b69e.webp
 tags: linux, window-managers, xephyr, xinit, startx
 
 ---
