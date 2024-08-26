@@ -37,7 +37,7 @@ To switch between open files, you can use the `:buffer` command (or just `:b`). 
 * `src/tokenizer/tokenizer.odin`
     
 
-Typing `:b to` and pressing Enter will take you to the buffer that matches the input. In this case it’ll open the ‘src/tokenizer/tokenizer.odin’ file. It’s a straightforward method for navigating between your open files.
+Typing `:b to` and pressing Enter will take you to the buffer that matches the input. In this case it’ll open the `src/tokenizer/tokenizer.odin` file. It’s a straightforward method for navigating between your open files.
 
 ### Enjoying the Simplicity
 
