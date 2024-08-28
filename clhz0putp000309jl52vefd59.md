@@ -15,7 +15,7 @@ Also, I'm now back on Neovim, after using Emacs for a full year, I might write a
 TLDR:
 
 > I was happily using vim (neovim), then one day I discovered Lisp,  
-> a week later I switched to Emacs  
+> a week later I switched to Emacs
 
 I had been using Vim since 2017. At first, I had vscode as a backup for when I had to do some major code refactoring, but around mid-2020, I decided to go fully Vim and never turned back, until one day…
 
@@ -56,7 +56,7 @@ Immediately after trying it I had these issues:
 * File navigation
     
 
-  On Vim I just use Netrw to go into nearby files, I used "-" to open it and use j, k, h, l to navigate through it (this is not the default behavior, I had my Vim configured that way). But I just didn't know who to make Dired (Emacs's default file browser) to do that.
+On Vim I just use Netrw to go into nearby files, I used "-" to open it and use j, k, h, l to navigate through it (this is not the default behavior, I had my Vim configured that way). But I just didn't know who to make Dired (Emacs's default file browser) to do that.
 
 After a few hours of trying Doom Emacs, I wasn't interested enough in going further with it, because I wasn't that impressed with performance or Elisp (the language used to configure Emacs).
 
@@ -113,7 +113,7 @@ I didn't care anymore, I existed in this new lisp-driven environment, and I didn
 
 ## In Conclusion
 
-In the past, I was running away from emacs because of Lisp and also because I was so in love with Vim. But Lisp got to chase behind Emacs this time around. And now I'm also using all the other good stuff which came with Emacs. I'm using Magit for most of my git work. I'm becoming an org-mode junky. I'm tracking my time on it, taking my notes on it, and even writing this blog post on an org file. And also, I'm working on my own Emacs configuration on the side as I find time so that I don't have to depend on Doom config.
+In the past, I was running away from emacs because of Lisp and also because I was so in love with Vim. But Lisp got me chasing behind Emacs this time around. And now I'm also using all the other good stuff which came with Emacs. I'm using Magit for most of my git work. I'm becoming an org-mode junky. I'm tracking my time on it, taking my notes on it, and even writing this blog post on an org file. And also, I'm working on my own Emacs configuration on the side as I find time so that I don't have to depend on Doom config.
 
 ### Is Emacs the best text editor in the world now?
 
