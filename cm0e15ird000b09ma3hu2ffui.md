@@ -3,7 +3,7 @@ title: "Setting up Emacs to have `gql` template literals highlights"
 datePublished: Wed Aug 28 2024 15:47:53 GMT+0000 (Coordinated Universal Time)
 cuid: cm0e15ird000b09ma3hu2ffui
 slug: setting-up-emacs-to-have-gql-template-literals-highlights
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724860016107/813dcc5a-3cbd-4bef-bdc0-e266503b0fb8.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724860250799/cc4211fe-12fe-4907-bb7c-7f5821b25e88.png
 tags: emacs, graphql, text-editors
 
 ---
