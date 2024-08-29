@@ -1,5 +1,7 @@
 ---
-title: "Setting up Emacs to have `gql` template literals highlights"
+title: "Emacs `gql` template literals highlighting"
+seoTitle: "How to Highlight gql Template Literals in Emacs for Web Development"
+seoDescription: "Learn how to set up Emacs to highlight gql template literals in web-mode using graphql-mode and mmm-mode."
 datePublished: Wed Aug 28 2024 15:47:53 GMT+0000 (Coordinated Universal Time)
 cuid: cm0e15ird000b09ma3hu2ffui
 slug: setting-up-emacs-to-have-gql-template-literals-highlights
