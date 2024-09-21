@@ -15,7 +15,7 @@ This blog post is not to say that Rails is bad or anything like that.
 
 I recently got really inspired to give Ruby a real try after watching an interview and some talks by DHH, the creator of Ruby on Rails. In those talks, he shares how much joy he finds in programming with Ruby. I can totally relate to things he says, like “a text-editor-friendly programming language (no IDE required)” and “programming for the sheer joy of programming”, etc.
 
-So, I wanted to give Ruby a real shot and started the “Try Ruby” tutorial on the official Ruby website. Midway through the tutorial, I got curious about what it would take to do some web programming with Ruby. I ended up discovering how to build a simple web server using Ruby. Below is the simplest web server implementation in Ruby, so future me won’t have to ask an AI about this again.
+So, I wanted to give Ruby a real shot and started the “Try Ruby” tutorial on the official Ruby website. Midway through the tutorial, I got curious about what it would take to do some web programming with Ruby. I ended up discovering how to build a simple web server using Ruby. Below is the simplest web server implementation in Ruby, so future me won’t have to ask some AI about this again.
 
 ### The simplest hello world web-server
 
