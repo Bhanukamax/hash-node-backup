@@ -1,6 +1,6 @@
 ---
 title: "Ruby without Rails"
-seoTitle: "How to build a simple web server in Ruby without using any library"
+seoTitle: "How to build a simple web server in Ruby"
 datePublished: Sat Sep 21 2024 17:32:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm1cfgp2w002108l899mohzn3
 slug: ruby-without-rails
