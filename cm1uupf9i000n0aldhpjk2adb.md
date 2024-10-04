@@ -46,16 +46,10 @@ Create a file called `sync.el` in your Emacs configuration folder with the follo
 	(package-refresh-contents)
 	(setq my/package-refreshed-p t))))
 
-(unless (package-installed-p 'use-package)
-  (package-refresh-contents)
-  (package-install 'use-package))
-(require 'use-package)
-
 (dolist (pkg package-selected-packages)
   (condition-case err
       (progn
 	(let ((pkg-name (symbol-name pkg)))
-
 	  (eval (if (package-installed-p pkg)
 		    (print (concat pkg-name " already installed!"))
 		  (progn
