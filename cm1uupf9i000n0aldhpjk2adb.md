@@ -1,5 +1,7 @@
 ---
 title: "Portable emacs config without crazy load time"
+seoTitle: "Portable Emacs Config: Install Packages Without Slowing Startup"
+seoDescription: "Set up a portable Emacs config with a script for installing packages on new systems—without increasing startup times or bloating your config."
 datePublished: Fri Oct 04 2024 14:59:12 GMT+0000 (Coordinated Universal Time)
 cuid: cm1uupf9i000n0aldhpjk2adb
 slug: portable-emacs-config-without-crazy-load-time
@@ -60,6 +62,10 @@ Create a file called `sync.el` in your Emacs configuration folder with the follo
      (message "Failed to install package: %s. Error: %s" pkg err))))
 ```
 
+This script will go through all the packages listed in `package-selected-packages` and install any that aren’t already on the system.
+
+The key thing here: we don’t call this script during regular Emacs startup. That means `package-refresh-contents` is **never** called when Emacs is starting up normally. So no extra load times! You only run this `sync.el` script when setting up a new system or installing your packages. The rest of the time, Emacs stays fast as usual.
+
 ## Step 3: Create a shell file to run the elisp script without launching Emacs
 
 * Create an empty file with the following contents for example in ~/.emacs.d/sync
@@ -70,17 +76,17 @@ Create a file called `sync.el` in your Emacs configuration folder with the follo
 emacs -q --script ~/.emacs.d/sync.el
 ```
 
-* And make it executable
+* Make it executable:
     
 
 ```bash
 $ sudo chmod +x ~/.emacs.d/sync
 ```
 
-That's all, now running this `~/.emacs.d/sync` command will install any packages listed on your `custom-set-variables` block.
+That’s it! Now, running `~/.emacs.d/sync` will install any packages listed in your `custom-set-variables` block.
 
 # Conclusion
 
-This technique is actually inspired by doomemacs. Also alternatively you can just make sure you use `use-package` with `:ensure t` to make sure your packages get installed without any of these steps.
+This technique is actually inspired by Doom Emacs. Alternatively, you could use `use-package` with `:ensure t` to handle package installation automatically. But honestly, I find that approach makes your config pretty beefy when you have a lot of packages. Adding a `use-package` block for everything feels clunky. And yeah, it might avoid the need for this script, but I like the simplicity of just listing the packages and not having to write a bunch of boilerplate.
 
-But I like to not add a bunch of `use-package` block for every single Emacs package I want to use. And this works perfectly for me!
+This setup works perfectly for me—it's lightweight, avoids the usual slowdowns, and gets my Emacs ready in no time!
