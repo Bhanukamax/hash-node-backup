@@ -5,6 +5,7 @@ seoDescription: "Set up a portable Emacs config with a script for installing pac
 datePublished: Fri Oct 04 2024 14:59:12 GMT+0000 (Coordinated Universal Time)
 cuid: cm1uupf9i000n0aldhpjk2adb
 slug: portable-emacs-config-without-crazy-load-time
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728055677865/28a682e8-c42a-45fb-ad28-75070a9da1d9.webp
 tags: emacs, linux, automation, lisp
 
 ---
