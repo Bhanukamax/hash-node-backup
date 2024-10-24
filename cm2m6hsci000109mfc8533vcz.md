@@ -16,9 +16,13 @@ Some time ago, I wrote a post about using Vim to look cool and why that’s not 
 
 I started using Vim around 2017 and absolutely loved the modal editing and the fact that I could do everything right from the terminal. It felt almost like a superpower! But then, around 2022, I got curious about Emacs. For a while, I was all in. Emacs has some fantastic features—like compilation mode, Dired (the file manager), and Magit—that really stood out to me. Plus, it’s fully keyboard-driven without the complexity of Vim’s modal editing. Yes, I said it! While I totally get that modal editing in Vim is super efficient, it’s not the only way to edit text. After switching to Emacs, I found myself really enjoying non-modal editing a lot.
 
-But here's the thing: I kept going back and forth between Vim and Emacs because, as much as I loved Emacs, it wasn’t perfect. For starters, its community is a lot smaller than Vim's, which made it tough to get some niche JavaScript tooling working. I managed to set everything up, but it was a bit of a struggle and not exactly a pleasant experience.
+But here's the thing: I kept going back and forth between Vim and Emacs because, as much as I loved Emacs, it wasn’t perfect. For starters, its community is a lot smaller than Vim's, which made it tough to get some niche JavaScript tooling working. For example, getting LSP set up in Yarn PnP projects was a bit of a battle. But let’s not dive into that too much! I managed to set everything up, but it was a bit of a struggle and not exactly a pleasant experience.
 
 Through all this, I realized that non-modal editing actually suits me better. That’s one of the reasons I kept gravitating back to Emacs, even though things weren’t always smooth sailing.
+
+## **Is** Emacs **Really That Bad?**
+
+Sure, there are some downsides to Emacs. The smaller community means certain tools don’t have as much widespread support, but it really depends on what you're using it for. For example, there's a stronger Emacs community for languages like Common Lisp, Racket, Haskell, etc. So if you're working with those technologies, Emacs might just be the best choice, honestly.
 
 ## Why I Switched to VSCode
 
@@ -32,8 +36,6 @@ Now, that’s not to say VSCode is perfect. It’s not fully keyboard-driven lik
 
 Reflecting on my old post about learning Vim to look cool, I can say that switching to VSCode now isn’t about looking cool or following a trend either. I’ve just shifted to what works best for me right now. Every editor has its strengths and weaknesses, and what really matters is finding the one that helps you be productive and enjoy your work.
 
-Sure, there are some downsides to Emacs. That smaller community means some stuff doesn’t have as much widespread support. For example, getting LSP set up in Yarn PnP projects was a bit of a battle. But let’s not dive into that too much!
-
 ## Exploring Other Options
 
 I tried Zed, and while it’s interesting, I just don’t feel like it’s ready for prime time use yet, at least for me.
@@ -46,4 +48,4 @@ And honestly, VSCode isn’t that bad for me after all. It works with minimal ef
 
 Who knows where I’ll go from here? Will I switch to WebStorm? Will I find a way to love Vim’s modal editing again? If that happens, I’ll probably install one of the Vim extensions for VSCode since I really appreciate the low configuration required now.
 
-One thing is for sure: I’ll keep using tools that I enjoy and that inspire me to keep doing what I love the most, which is writing code.
+One thing is for sure: I’ll keep using tools that I enjoy and that inspire me to keep doing what I love, which is writing code.
