@@ -6,7 +6,7 @@ datePublished: Wed Oct 23 2024 17:58:58 GMT+0000 (Coordinated Universal Time)
 cuid: cm2m6hsci000109mfc8533vcz
 slug: why-i-switched-to-vscode
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729706109154/a98f8a1b-5ee5-48fc-abe3-baa8996709b9.png
-tags: emacs, vim, text-editors, vscode-cjevho8kk00bo1ss2lmqqjr51
+tags: emacs, vim, text-editors, text-editor, vscode-cjevho8kk00bo1ss2lmqqjr51, emacs-to-vscode, editor-hopping, text-editor-hopping
 
 ---
 
