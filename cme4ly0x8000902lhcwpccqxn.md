@@ -47,6 +47,8 @@ These days, my setup is simple:
 
 Here's something interesting about JetBrains' licensing: you don't actually need WebStorm if you have GoLand. Any upper-tier IDE like GoLand, IntelliJ IDEA Ultimate, or CLion includes all the WebStorm functionality built right in. So even though I do web development at work, GoLand handles JavaScript, TypeScript, React, and all the web technologies just as well as WebStorm would. It's essentially WebStorm plus Go support, not a separate thing entirely.
 
+Also worth noting—JetBrains offers free non-commercial licenses for many of their IDEs like CLion, Rider, and WebStorm, which makes experimenting with different tools much more accessible.
+
 This feels more mature than trying to make one editor do everything, while also being more practical than juggling multiple specialized tools when you don't need to.
 
 I still use Cursor occasionally for AI capabilities, but when I'm actually writing code? JetBrains runs the show.
