@@ -16,7 +16,7 @@ I know, I know. Another "why I switched editors" post. But hear me out—this ti
 
 ## The Reality Check
 
-After years of hopping between Vim, Emacs, and VSCode, I've settled into a workflow that's honestly just... practical. I use GoLand with a commercial license for work, and CLion with a free non-commercial license for personal projects.
+After years of hopping between Vim, Emacs, and VSCode, I've settled into a workflow that's honestly just... practical. I use GoLand for Go and frontend development, and CLion for exploring raylib and other C/C++ (or Odin with Odin plugin) projects.
 
 The thing is, I had some WebStorm experience before—maybe a month or two here and there between my various editor adventures. But this time, something clicked differently.
 
