@@ -18,7 +18,7 @@ So here's the simplest cmake file you can create.
 
 (this content should go into a file called `CMakeLists.txt`)
 
-```cpp
+```c
 # Specify the minimum version of cmake to use
 cmake_minimum_required(VERSION 3.0)
 
@@ -28,6 +28,8 @@ project(Game)
 # list all the source files next to the executable name
 add_executable(Game main.c)
 
+# Add this line if cmake complains about not being able to find your library (in this case raylib)
+find_package(raylib)
 # Add any external dependencies
 target_link_libraries(Game raylib)
 ```
