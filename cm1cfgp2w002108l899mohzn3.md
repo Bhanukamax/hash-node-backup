@@ -1,7 +1,7 @@
 ---
 title: "Ruby without Rails"
 seoTitle: "How to build a simple web server in Ruby"
-datePublished: Sat Sep 21 2024 17:32:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-21T17:32:39.800Z
 cuid: cm1cfgp2w002108l899mohzn3
 slug: ruby-without-rails
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726939738598/57bdb801-ef32-47a1-8e80-3959cc91db45.png
