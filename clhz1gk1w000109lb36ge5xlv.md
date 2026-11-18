@@ -1,6 +1,6 @@
 ---
 title: "Emacs as a Time Tracker"
-datePublished: Mon May 22 2023 16:05:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-05-22T16:05:13.989Z
 cuid: clhz1gk1w000109lb36ge5xlv
 slug: emacs-as-a-time-tracker
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684854398158/8b81558e-5fce-49bc-aa8f-67fdcbea96fe.png
