@@ -2,7 +2,7 @@
 title: "Release my port! How to Free Up a Used Port in Linux"
 seoTitle: "How to Free Up a Used Port in Linux | Resolve EADDRINUSE Error Quickly"
 seoDescription: "Learn how to free up a used port in Linux with simple terminal commands. Resolve the EADDRINUSE error and get back to coding without interruptions."
-datePublished: Thu May 25 2023 14:00:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-05-25T14:00:39.095Z
 cuid: cli37bweb01dcq1nvdljebcxs
 slug: release-my-port
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703078147076/32f0a053-cb0d-47bf-9f91-3ca205cb3841.png
