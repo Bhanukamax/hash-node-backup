@@ -1,6 +1,6 @@
 ---
 title: "Emacs-Inspired Search in Vim"
-datePublished: Sat Jul 01 2023 04:51:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-07-01T04:51:16.613Z
 cuid: cljjizx1h00010amhbj3x5f42
 slug: emacs-inspired-search-in-vim
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703051714603/dbe920eb-2441-4863-b62a-60279619dd43.png
