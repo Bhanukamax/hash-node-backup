@@ -2,7 +2,7 @@
 title: "Vim to Lisp to Emacs"
 seoTitle: "From Vim to Emacs: Why I Made the Switch After Years of Vim"
 seoDescription: "My experience switching from Vim to Emacs after years as a devoted Vim user. How discovering programming languages led me to appreciate Emacs' extensibility"
-datePublished: Mon May 22 2023 15:44:28 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-05-22T15:44:28.237Z
 cuid: clhz0putp000309jl52vefd59
 slug: vim-to-lisp-to-emacs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703084463454/575d8fea-9d2a-4339-b0e3-4689298cd8b4.png
