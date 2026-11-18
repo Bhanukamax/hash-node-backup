@@ -2,7 +2,7 @@
 title: "Build multiple OCaml executables in one Dune Project"
 seoTitle: "Dune: Build multiple OCaml executables"
 seoDescription: "Build multiple OCaml executables in one Dune project. This is useful for doing things like the advent of code problems in one Dune project."
-datePublished: Mon Aug 21 2023 15:30:40 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-08-21T15:30:40.804Z
 cuid: clll1an1g000n0al8deg5dnoj
 slug: build-multiple-ocaml-executables-in-one-dune-project
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703051355216/b861be00-b0ac-4f13-b217-457fc361fc85.png
