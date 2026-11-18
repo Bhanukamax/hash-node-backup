@@ -2,7 +2,7 @@
 title: "Why I Actually Settled on JetBrains IDEs (After All That Editor Hopping)"
 seoTitle: "Why I Actually Settled on JetBrains IDEs After Years of Editor Hopping"
 seoDescription: "My journey from Vim and Emacs to VSCode and finally to JetBrains IDEs. Why GoLand and CLion stuck when other editors didn't, and what makes JetBrains differ"
-datePublished: Sat Aug 09 2025 18:48:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-09T18:48:06.956Z
 cuid: cme4ly0x8000902lhcwpccqxn
 slug: why-i-actually-settled-on-jetbrains-ides-after-all-that-editor-hopping
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754764428700/59e5d39e-2974-4c3a-9d05-3e5d129a7520.png
