@@ -1,6 +1,6 @@
 ---
 title: "Getting user input in Odin CLI apps"
-datePublished: Thu May 22 2025 18:03:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-22T18:03:06.283Z
 cuid: cmazojuej000g09l205jl5nht
 slug: getting-user-input-in-odin-cli-apps
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747936835864/5e08a487-31f5-46df-81d4-24136108d94c.png
