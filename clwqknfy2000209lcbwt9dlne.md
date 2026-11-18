@@ -2,7 +2,7 @@
 title: "Learn Computer Science for free!"
 seoTitle: "Learn Computer Science for Free: Top Resources to Get Started"
 seoDescription: "Discover the best free resources to learn Computer Science, including comprehensive guides and structured curricula. Start your journey with these resources"
-datePublished: Tue May 28 2024 15:48:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-05-28T15:48:07.419Z
 cuid: clwqknfy2000209lcbwt9dlne
 slug: learn-computer-science-for-free
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FO7JIlwjOtU/upload/f6a492f3d24e8cfc20bc18bc647dbb31.jpeg
