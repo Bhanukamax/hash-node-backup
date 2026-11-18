@@ -2,7 +2,7 @@
 title: "Portable emacs config without crazy load time"
 seoTitle: "Portable Emacs Config: Install Packages Without Slowing Startup"
 seoDescription: "Set up a portable Emacs config with a script for installing packages on new systems—without increasing startup times or bloating your config."
-datePublished: Fri Oct 04 2024 14:59:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-04T14:59:12.390Z
 cuid: cm1uupf9i000n0aldhpjk2adb
 slug: portable-emacs-config-without-crazy-load-time
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728055677865/28a682e8-c42a-45fb-ad28-75070a9da1d9.webp
