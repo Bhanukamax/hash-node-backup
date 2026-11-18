@@ -2,7 +2,7 @@
 title: "Why I Switched to VSCode"
 seoTitle: "Why I Switched to VSCode: My Journey from Vim and Emacs to VSCode"
 seoDescription: "My journey from Vim and Emacs to VSCode, exploring how my coding needs evolved and why I prefer a more intuitive editing experience."
-datePublished: Wed Oct 23 2024 17:58:58 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-23T17:58:58.242Z
 cuid: cm2m6hsci000109mfc8533vcz
 slug: why-i-switched-to-vscode
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729706109154/a98f8a1b-5ee5-48fc-abe3-baa8996709b9.png
