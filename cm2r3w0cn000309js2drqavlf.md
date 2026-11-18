@@ -2,7 +2,7 @@
 title: "Linking Libraries Locally with CMake: A Follow-Up"
 seoTitle: "Linking Local Libraries in CMake: A Simple Guide for C/C++ Projects"
 seoDescription: "Learn how to link libraries from local folders in CMake, making your C/C++ project setup flexible and portable."
-datePublished: Sun Oct 27 2024 04:44:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-27T04:44:53.832Z
 cuid: cm2r3w0cn000309js2drqavlf
 slug: linking-libraries-locally-with-cmake-a-follow-up
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1730003979822/7d5bd640-2121-4f85-847a-730117e716fd.webp
