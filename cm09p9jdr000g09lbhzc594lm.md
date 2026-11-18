@@ -2,7 +2,7 @@
 title: "Vim Fuzzy file search and navigation without plugins"
 seoTitle: "Master Fuzzy File Search and Navigation in Vim Without Plugins"
 seoDescription: "Discover how to efficiently perform fuzzy file search and navigation in Vim using built-in commands like :find and :buffer—no plugins required."
-datePublished: Sun Aug 25 2024 15:04:01 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-25T15:04:01.119Z
 cuid: cm09p9jdr000g09lbhzc594lm
 slug: vim-fuzzy-file-search-and-navigation-without-plugins
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724598024421/b17ff5cf-14eb-4f05-814e-bf2ec62b6d9d.png
