@@ -1,6 +1,6 @@
 ---
 title: "How to create your very own keyboard layout"
-datePublished: Sat May 06 2023 17:22:14 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-05-06T17:22:14.062Z
 cuid: clhc95y99000009mj5og8dgmw
 slug: how-to-create-your-very-own-keyboard-layout
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/J3A5rtfHu0M/upload/58b9cd0a08cfcbb858d65bb54f20c894.jpeg
